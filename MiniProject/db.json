@@ -1,0 +1,36 @@
+{
+    "blogs":[
+        {
+            "id":1,
+            "title":"First Blog",
+            "Category":"Sport",
+            "Content":"random content"
+        },
+        {
+            "id":2,
+            "title":"Second Blog",
+            "Category":"Health",
+            "Content":"random content"
+        },
+        {
+            "id":3,
+            "title":"Third Blog",
+            "Category":"Travel",
+            "Content":"random content"
+        },
+        {
+            "id":4,
+            "title":"Fourth Blog",
+            "Category":"Food",
+            "Content":"random content"
+        }
+    ],
+
+    "comment":[
+        {
+            "id":1,
+            "body":"Some comments",
+            "postId":1
+        }
+    ]
+}
